@@ -170,3 +170,47 @@ C:\Users\רות בר דגן\Desktop\project01-final\PL1\obj\Debug\choose.g.cs
 C:\Users\רות בר דגן\Desktop\project01-final\PL1\obj\Debug\comboWindow.g.cs
 C:\Users\רות בר דגן\Desktop\project01-final\PL1\obj\Debug\choose.baml
 C:\Users\רות בר דגן\Desktop\project01-final\PL1\obj\Debug\comboWindow.baml
+C:\project01-final\PL1\bin\Debug\PL1.exe.config
+C:\project01-final\PL1\bin\Debug\PL1.exe
+C:\project01-final\PL1\bin\Debug\PL1.pdb
+C:\project01-final\PL1\bin\Debug\BL.dll
+C:\project01-final\PL1\bin\Debug\DAL.dll
+C:\project01-final\PL1\bin\Debug\DS.dll
+C:\project01-final\PL1\bin\Debug\Project01_7735_5114_dotNet5780.dll
+C:\project01-final\PL1\bin\Debug\BL.pdb
+C:\project01-final\PL1\bin\Debug\DAL.pdb
+C:\project01-final\PL1\bin\Debug\DS.pdb
+C:\project01-final\PL1\bin\Debug\Project01_7735_5114_dotNet5780.pdb
+C:\project01-final\PL1\obj\Debug\PL1.csprojAssemblyReference.cache
+C:\project01-final\PL1\obj\Debug\addGuestRequest.g.cs
+C:\project01-final\PL1\obj\Debug\choose.g.cs
+C:\project01-final\PL1\obj\Debug\comboWindow.g.cs
+C:\project01-final\PL1\obj\Debug\MainWindow.g.cs
+C:\project01-final\PL1\obj\Debug\newHostingUnit.g.cs
+C:\project01-final\PL1\obj\Debug\newOrder.g.cs
+C:\project01-final\PL1\obj\Debug\ShowGR.g.cs
+C:\project01-final\PL1\obj\Debug\ShowOrders.g.cs
+C:\project01-final\PL1\obj\Debug\Window2.g.cs
+C:\project01-final\PL1\obj\Debug\Window3.g.cs
+C:\project01-final\PL1\obj\Debug\Window4.g.cs
+C:\project01-final\PL1\obj\Debug\App.g.cs
+C:\project01-final\PL1\obj\Debug\PL1_MarkupCompile.cache
+C:\project01-final\PL1\obj\Debug\PL1_MarkupCompile.lref
+C:\project01-final\PL1\obj\Debug\addGuestRequest.baml
+C:\project01-final\PL1\obj\Debug\choose.baml
+C:\project01-final\PL1\obj\Debug\comboWindow.baml
+C:\project01-final\PL1\obj\Debug\MainWindow.baml
+C:\project01-final\PL1\obj\Debug\newHostingUnit.baml
+C:\project01-final\PL1\obj\Debug\newOrder.baml
+C:\project01-final\PL1\obj\Debug\ShowGR.baml
+C:\project01-final\PL1\obj\Debug\ShowOrders.baml
+C:\project01-final\PL1\obj\Debug\Window2.baml
+C:\project01-final\PL1\obj\Debug\Window3.baml
+C:\project01-final\PL1\obj\Debug\Window4.baml
+C:\project01-final\PL1\obj\Debug\PL1.g.resources
+C:\project01-final\PL1\obj\Debug\PL1.Properties.Resources.resources
+C:\project01-final\PL1\obj\Debug\PL1.csproj.GenerateResource.cache
+C:\project01-final\PL1\obj\Debug\PL1.csproj.CoreCompileInputs.cache
+C:\project01-final\PL1\obj\Debug\PL1.csproj.CopyComplete
+C:\project01-final\PL1\obj\Debug\PL1.exe
+C:\project01-final\PL1\obj\Debug\PL1.pdb
