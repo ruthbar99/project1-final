@@ -1,0 +1,16 @@
+﻿<Window x:Class="PL1.choose"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PL1"
+        mc:Ignorable="d"
+        Title="choose" Height="450" Width="800">
+    <Grid>
+        <Label Content="" HorizontalAlignment="Left" Height="73" Margin="62,54,0,0" VerticalAlignment="Top" Width="593"/>
+        <Button x:Name="addBtn" Content="הוספה" HorizontalAlignment="Left" Margin="62,309,0,0" VerticalAlignment="Top" Width="127" Height="54" RenderTransformOrigin="-0.722,0.867" Click="AddBtn_Click"/>
+        <Button x:Name="editBtn" Content="עדכון" HorizontalAlignment="Left" Margin="311,309,0,0" VerticalAlignment="Top" Width="127" Height="54" RenderTransformOrigin="-0.722,0.867" Click="EditBtn_Click"/>
+        <Button x:Name="DeleteBtn"  Content="מחיקה" HorizontalAlignment="Left" Margin="624,309,0,0" VerticalAlignment="Top" Width="127" Height="54" RenderTransformOrigin="-0.722,0.867" Click="DeleteBtn_Click"/>
+
+    </Grid>
+</Window>

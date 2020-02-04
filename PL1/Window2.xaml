@@ -1,0 +1,33 @@
+﻿<Window x:Class="PL1.Window2"
+        WindowState="Maximized"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PL1"
+        mc:Ignorable="d"
+        Title="Window2" Height="732" Width="1169.6">
+    <Grid Background="White" Margin="0,-29,-227.8,-175.6">
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition Height="0*"/>
+        </Grid.RowDefinitions>
+        <Image Margin="258,0,385.467,652.333" Source="InkedFamily-Vacation-Critic_LI.jpg" Stretch="Fill"/>
+        <Label Content="שם היחידה" HorizontalAlignment="Left" Height="46" Margin="986,260,0,0" VerticalAlignment="Top" Width="115" BorderBrush="Black" Background="{DynamicResource {x:Static SystemColors.MenuHighlightBrushKey}}" FontFamily="Segoe UI Historic" FontSize="16"/>
+        <Label Content="אזור" HorizontalAlignment="Left" Height="46" Margin="843,260,0,0" VerticalAlignment="Top" Width="114" BorderBrush="Black" Background="{DynamicResource {x:Static SystemColors.MenuHighlightBrushKey}}" FontFamily="Segoe UI Historic" FontSize="16" RenderTransformOrigin="0.5,0.5"/>
+        <Label Content="סוג האירוח" HorizontalAlignment="Left" Height="46" Margin="700,260,0,0" VerticalAlignment="Top" Width="114" BorderBrush="Black" Background="{DynamicResource {x:Static SystemColors.MenuHighlightBrushKey}}" FontFamily="Segoe UI Historic" FontSize="16"/>
+        <Label Content="אזור" HorizontalAlignment="Left" Height="46" Margin="548,260,0,0" VerticalAlignment="Top" Width="113" BorderBrush="Black" Background="{DynamicResource {x:Static SystemColors.MenuHighlightBrushKey}}" FontFamily="Segoe UI Historic" FontSize="16" RenderTransformOrigin="0.5,0.5"/>
+        <Label Content="בריכה" HorizontalAlignment="Left" Height="46" Margin="397,260,0,0" VerticalAlignment="Top" Width="114" BorderBrush="Black" Background="{DynamicResource {x:Static SystemColors.MenuHighlightBrushKey}}" FontFamily="Segoe UI Historic" FontSize="16" RenderTransformOrigin="0.5,0.5"/>
+        <Label Content="פינת עישון" HorizontalAlignment="Left" Height="46" Margin="258,260,0,0" VerticalAlignment="Top" Width="114" BorderBrush="Black" Background="{DynamicResource {x:Static SystemColors.MenuHighlightBrushKey}}" FontFamily="Segoe UI Historic" FontSize="16"/>
+        <Label Content="נגישות" HorizontalAlignment="Left" Height="46" Margin="107,260,0,0" VerticalAlignment="Top" Width="114" BorderBrush="Black" Background="{DynamicResource {x:Static SystemColors.MenuHighlightBrushKey}}" FontFamily="Segoe UI Historic" FontSize="16"/>
+        <ListBox x:Name="listBox1" HorizontalAlignment="Left" Height="279" Margin="986,363,0,0" VerticalAlignment="Top" Width="115"/>
+        <ListBox x:Name="listBox2" HorizontalAlignment="Left" Height="279" Margin="843,363,0,0" VerticalAlignment="Top" Width="114"/>
+        <ListBox x:Name="listBox3" HorizontalAlignment="Left" Height="279" Margin="700,363,0,0" VerticalAlignment="Top" Width="114"/>
+        <ListBox x:Name="listBox4" HorizontalAlignment="Left" Height="279" Margin="548,363,0,0" VerticalAlignment="Top" Width="113"/>
+        <ListBox x:Name="listBox5" HorizontalAlignment="Left" Height="279" Margin="397,363,0,0" VerticalAlignment="Top" Width="114"/>
+        <ListBox x:Name="listBox6" HorizontalAlignment="Left" Height="279" Margin="258,363,0,0" VerticalAlignment="Top" Width="114"/>
+        <ListBox x:Name="listBox7" HorizontalAlignment="Left" Height="279" Margin="107,363,0,0" VerticalAlignment="Top" Width="114"/>
+        <Label Content="מספר היחידה" HorizontalAlignment="Left" Height="46" Margin="1125,260,0,0" VerticalAlignment="Top" Width="114" BorderBrush="Black" Background="{DynamicResource {x:Static SystemColors.MenuHighlightBrushKey}}" FontFamily="Segoe UI Historic" FontSize="16" RenderTransformOrigin="0.5,0.146"/>
+        <ListBox x:Name="listBox0" HorizontalAlignment="Left" Height="281" Margin="1125,364,0,0" VerticalAlignment="Top" Width="114" SelectionChanged="ListBox0_SelectionChanged"/>
+    </Grid>
+</Window>

@@ -1,0 +1,36 @@
+C:\Users\yael1\Downloads\project01-master (1)\project01-master\DS\bin\Debug\DS.dll
+C:\Users\yael1\Downloads\project01-master (1)\project01-master\DS\bin\Debug\DS.pdb
+C:\Users\yael1\Downloads\project01-master (1)\project01-master\DS\bin\Debug\Project01_7735_5114_dotNet5780.dll
+C:\Users\yael1\Downloads\project01-master (1)\project01-master\DS\bin\Debug\Project01_7735_5114_dotNet5780.pdb
+C:\Users\yael1\Downloads\project01-master (1)\project01-master\DS\obj\Debug\DS.csprojAssemblyReference.cache
+C:\Users\yael1\Downloads\project01-master (1)\project01-master\DS\obj\Debug\DS.csproj.CoreCompileInputs.cache
+C:\Users\yael1\Downloads\project01-master (1)\project01-master\DS\obj\Debug\DS.csproj.CopyComplete
+C:\Users\yael1\Downloads\project01-master (1)\project01-master\DS\obj\Debug\DS.dll
+C:\Users\yael1\Downloads\project01-master (1)\project01-master\DS\obj\Debug\DS.pdb
+C:\Users\yael1\Downloads\project\project01-master\DS\bin\Debug\DS.dll
+C:\Users\yael1\Downloads\project\project01-master\DS\bin\Debug\DS.pdb
+C:\Users\yael1\Downloads\project\project01-master\DS\bin\Debug\Project01_7735_5114_dotNet5780.dll
+C:\Users\yael1\Downloads\project\project01-master\DS\bin\Debug\Project01_7735_5114_dotNet5780.pdb
+C:\Users\yael1\Downloads\project\project01-master\DS\obj\Debug\DS.csprojAssemblyReference.cache
+C:\Users\yael1\Downloads\project\project01-master\DS\obj\Debug\DS.csproj.CoreCompileInputs.cache
+C:\Users\yael1\Downloads\project\project01-master\DS\obj\Debug\DS.csproj.CopyComplete
+C:\Users\yael1\Downloads\project\project01-master\DS\obj\Debug\DS.dll
+C:\Users\yael1\Downloads\project\project01-master\DS\obj\Debug\DS.pdb
+C:\Users\רות בר דגן\Desktop\project01-master\DS\obj\Debug\DS.csprojAssemblyReference.cache
+C:\Users\רות בר דגן\Desktop\project01-master\DS\obj\Debug\DS.csproj.CoreCompileInputs.cache
+C:\Users\רות בר דגן\Desktop\project01-master\DS\obj\Debug\DS.dll
+C:\Users\רות בר דגן\Desktop\project01-master\DS\obj\Debug\DS.pdb
+C:\Users\רות בר דגן\Desktop\project01-master\DS\bin\Debug\DS.dll
+C:\Users\רות בר דגן\Desktop\project01-master\DS\bin\Debug\DS.pdb
+C:\Users\רות בר דגן\Desktop\project01-master\DS\bin\Debug\Project01_7735_5114_dotNet5780.dll
+C:\Users\רות בר דגן\Desktop\project01-master\DS\bin\Debug\Project01_7735_5114_dotNet5780.pdb
+C:\Users\רות בר דגן\Desktop\project01-master\DS\obj\Debug\DS.csproj.CopyComplete
+C:\Users\רות בר דגן\Desktop\project01-final\DS\bin\Debug\DS.dll
+C:\Users\רות בר דגן\Desktop\project01-final\DS\bin\Debug\DS.pdb
+C:\Users\רות בר דגן\Desktop\project01-final\DS\bin\Debug\Project01_7735_5114_dotNet5780.dll
+C:\Users\רות בר דגן\Desktop\project01-final\DS\bin\Debug\Project01_7735_5114_dotNet5780.pdb
+C:\Users\רות בר דגן\Desktop\project01-final\DS\obj\Debug\DS.csprojAssemblyReference.cache
+C:\Users\רות בר דגן\Desktop\project01-final\DS\obj\Debug\DS.csproj.CoreCompileInputs.cache
+C:\Users\רות בר דגן\Desktop\project01-final\DS\obj\Debug\DS.csproj.CopyComplete
+C:\Users\רות בר דגן\Desktop\project01-final\DS\obj\Debug\DS.dll
+C:\Users\רות בר דגן\Desktop\project01-final\DS\obj\Debug\DS.pdb
